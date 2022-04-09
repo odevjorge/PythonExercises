@@ -1,0 +1,1 @@
+print(f"A media é: {c/len(lista):.2f}\nO maior numero digitado foi: {lista[-1]} o menor {lista[0]}")

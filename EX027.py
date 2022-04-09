@@ -1,0 +1,5 @@
+nome = input('Opaaa, teu nome:\n >>> ')
+nome = nome.split()
+print(f'Seu primeiro nome é: {nome[0]}')
+no = (len(nome)-1)
+print(f'Seu ultimo nom é: {nome[no]}')
