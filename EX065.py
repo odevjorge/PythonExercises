@@ -1,5 +1,4 @@
 c = 0
-b = 0
 lista = []
 while True:
     num = int(input("Digite um numero: "))
